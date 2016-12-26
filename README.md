@@ -1,9 +1,6 @@
-# raytracer2
-Automatically exported from code.google.com/p/raytracer2
-#summary One-sentence summary of this page.
-#labels Phase-Requirements,Featured
+# Deeper look at computer graphics and it's fotorealistic rendering algorithms
 
-## Project RayTracer2
+## Project Automatically exported from [RayTracer2](code.google.com/p/raytracer2)
 
 * [Author: Mgr. Ondrej Bahounek](http://code.google.com/p/raytracer2/wiki/AboutAuthor)
 
