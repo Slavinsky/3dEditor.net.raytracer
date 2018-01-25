@@ -1,6 +1,6 @@
 # Deeper look at computer graphics and it's fotorealistic rendering algorithms
 
-## Project Automatically exported from [RayTracer2](code.google.com/p/raytracer2)
+## Project Automatically exported from [RayTracer2](https://code.google.com/archive/p/raytracer2/)
 
 * [Author: Mgr. Ondrej Bahounek](http://code.google.com/p/raytracer2/wiki/AboutAuthor)
 
@@ -13,7 +13,7 @@ Among the advanced photorealistic rendering methods belong various optimization 
 
 ### Key words:
   * 3D Editor
-  * Ray-tracing
+  * [Ray-tracing](topics/ray-tracing)
   * Dropped shadows
   * Soft shadows
   * Illumination models
